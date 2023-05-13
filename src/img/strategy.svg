@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 105" width="117" height="112">
+	<title>Screenshot from 2023-03-15 23-31-42</title>
+	<defs>
+		<image  width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAAXNSR0IB2cksfwAAAN5QTFRF6u79ydLyU2zJL028JUS4RmHEUmvIZ3zPh5naLky8bIHQXXTLTWbGmajhV2/Jc4fTU2zITmfGh5nbuMPseY3V0tj0b4TSr7vp5en7oK3jhZfamKfhz9b0tMDqTGbGPVnBbYLRqLbmwMru5On7YnnNo7Hl2uD3y9TyT2jIjZ7c4+j7kaLezdXzx8/wq7fnNVK+OVXAztbzxc7v3eP41972XXXLMk+8an/Qm6ri3+X5LUu7j6Ddsb3q6u79wcvu4uf6vsjtM1C9pbPlfpDXnazjdIjTN1O+YXjNSmTFgZPY8PDeuQAAAEp0Uk5TAP//////////////////////////gP//AP///7D///////8A//8A8P//AP/Q/////8D/ADD/////AP//////AP/////////////DuWb9AAABkUlEQVR4nKWUe1eCQBDFBx0EFbXEHmZmVphpL1N7Uz5Rv/8XapZFwNyVPXX/2ePyc7h3Zg4AWiqNCkqnNABNV0GZdA0yiIapIAMxA1nMgZJymIU8WmqwhXkoIFpFBVmIBYCSasASq28iygvu7fMTsQwBbMuMUmP9/DaimQT7Q6iI4IPDI4Bjs/qLRTwRwHTWTvPx15hBNHsbrtP1Gc0zqlxvHBJUPBd5brIqMZZ0EUDb8OUVwc4G3JLB123f4A1Apxbujwzukgfm5Bbu4oMTw/cP5Lf52PYfhWpUE4Zii27+B/eeYnCfBgqDqgTuDRGfX0KYPaeBvwrht3c/UXcN07qbtBxNIUxt+/gc+svt3/A1MsU26HTdaHc4bUoCxioXK62EypFnLp17lgwl7AZX0A0noc9cA/aj//Utg6Wyt8zvUFRQ6TuqB38bjZPZ8Wj9ko4TfVrLTGRsU05nV5zEyH+DJ4gTVXbKEk3V2BnPP1OC5+i5rodzJXiBS9dd4kIJXrGVRlwpwcA9q7EAhucZovsfy6grA9QOoh4AAAAASUVORK5CYII="/>
+	</defs>
+	<use id="Background" href="#img1" x="33" y="31" />
+</svg>

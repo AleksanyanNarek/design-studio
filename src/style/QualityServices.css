@@ -1,0 +1,36 @@
+.qualityServicesSection{
+    min-height: 90vh;
+    overflow-y: hidden;
+}
+
+.qualityServices{
+    width: 50vw;
+}
+
+.qualityServices h1{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+}
+
+.services{
+    display: flex;
+    align-items: flex-end;
+    gap: 2rem;
+    overflow-y: hidden;
+}
+
+.service{
+    text-align: center;
+}
+
+.service img{
+    width: 100%;
+}
+
+.service p{
+    margin: 2rem 0;
+}
+
+.service button{
+    background-color: #2544B8;
+}

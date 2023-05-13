@@ -1,0 +1,20 @@
+.creativitySection{
+    min-height: 80vh;
+    background-image: url(../img/creativity-back.jpg);
+}
+
+.creativity{
+    width: 35rem;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    padding: 5rem;
+    text-align: center;
+}
+
+.creativity p{
+    margin: 2rem 0;
+}
+
+.creativity button{
+    padding: 1rem 2rem;
+}

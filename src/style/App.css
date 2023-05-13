@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html::-webkit-scrollbar{
+    width: 0.5rem;
+}
+
+html::-webkit-scrollbar-thumb{
+    background-color: #5c5c5c;
+}
+
+html::-webkit-scrollbar-track{
+    background: #FFFFFF;
+}
+
+body{
+    font-family: Montserrat, sans-serif;
+    min-height: 800vh;
+    overflow-x: hidden;
+}
+
+h1{
+    color: #2544B8;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+h2{
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 1.5rem;
+    letter-spacing: 1.3px;
+    color: #2544B8;
+}
+
+h4{
+    font-size: 1.5rem;
+}
+
+p{
+    color: #212121;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+
+span{
+    color: #adbdf6;
+    text-decoration: underline;
+}
+
+button{
+    background-color: #616BE8;
+    color: white;
+    font-weight: 300;
+    font-size: 1rem;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.5rem 3rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #259bca;
+}
+
+.backImg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerColumn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,48 @@
+.professionsSection{
+    height: 100vh;
+    background-image: url(../img/professions-back.jpg);
+}
+
+.professions{
+    display: flex;
+    justify-content: space-between;
+}
+
+.professionsText{
+    width: 30rem;
+    display: flex;
+    align-items: flex-end;
+}
+
+.professionsText h2{
+    font-size: 2.5rem;
+}
+
+.professionCards{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(300px, 1fr));
+    grid-gap: 2rem;
+}
+
+.professionCard{
+    text-align: center;
+    background-color: white;
+    padding: 3rem 2rem;
+    width: 20rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.imgBackColor{
+    background-color: #EAEEFD;
+    border-radius: 50%;
+}
+
+.professionCard h3{
+    margin: 1rem 0;
+    font-size: 1.2rem;
+}
+
+.professionCard p{
+    font-style: italic;
+    font-weight: 400;
+}

@@ -1,0 +1,73 @@
+.markSection{
+    min-height: 120vh;
+    background-color: #616BE8;
+    color: white;
+}
+
+.markSectionInfo{
+    width: 60vw;
+    height: 120vh;
+    justify-content: space-around; 
+}
+
+.markSectionInfo p{
+    font-weight: 500;
+    color: white;
+}
+
+
+.markSectionHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.markSectionHeader img{
+    width: 30rem;
+    border-radius: 50%;
+    border: 10px #748EEE solid;
+    margin-right: 1rem;
+}
+
+.aboutMark{
+    width: 30rem;
+    padding-left: 5rem;
+    align-items: flex-start;
+}
+
+.aboutMark p{
+    font-size: 1.5rem;
+    margin: 3rem 0;
+}
+
+.aboutMark button{
+    background-color: white;
+    color: #7A83EC;
+    font-weight: 900;
+    letter-spacing: 1.6px;
+    padding: 1rem 2.5rem;
+}
+
+.aboutMark button:hover{
+    border: 2px white solid;
+    background-color: #7A83EC;
+    color: white;
+}
+
+.markSectionFooter{
+    display: flex;
+    gap: 7rem;
+}
+
+.skills h2{
+    font-size: 2.5rem;
+}
+
+.skillsList{
+    margin-top: 2rem;
+}
+
+.skillsList p{
+    font-size: 1.3rem;
+    margin: 0.75rem 0;
+}

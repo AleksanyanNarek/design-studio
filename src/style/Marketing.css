@@ -1,0 +1,29 @@
+.marketingSection{
+    height: 120vh;
+}
+
+.marketing{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.marketingInfo{
+    width: 30rem;
+    gap: 5rem;
+}
+
+.marketingInfo p{
+    margin-top: 1rem;
+}
+
+.marketingImg{
+    display: flex;
+    width: 40rem;
+    margin-left: 10rem;
+}
+
+.marketingImg img{
+    width: 100%;
+    border-radius: 50%;
+}

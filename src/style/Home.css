@@ -1,0 +1,42 @@
+.home{
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.homeSection{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.homeImg{
+    
+    justify-content: flex-end;
+    z-index: -1;
+}
+
+.homeImg img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.homeText{
+    margin-left: 5rem;
+    justify-content: center;
+}
+
+.homeInfo{
+    width: 25rem;
+}
+
+.homeInfo p{
+    margin: 2rem 0;
+}
+
+.homeInfo button{
+    font-weight: 900;
+    padding: 1rem 3rem;
+}

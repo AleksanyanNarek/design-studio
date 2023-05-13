@@ -1,0 +1,35 @@
+.extraInformation{
+    min-height: 60vh;
+    display: flex;
+    overflow-y: hidden;
+}
+
+.extraInformationBox{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 1.5rem;
+}
+
+.extraInformationBox p{
+    color: white;
+    margin: 2rem 0;
+    font-weight: 300;
+}
+
+.extraInformationBox img{
+    width: 5rem;
+}
+
+.researchBox{
+    background-color: #2544B8;
+}
+
+.strategyBox{
+    background-color: #616BE8;
+}
+
+.designBox{
+    background-color: #36B1E1;
+}
